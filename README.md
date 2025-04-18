@@ -1,7 +1,7 @@
 ![logo](https://github.com/Rashmirekhanayak/Rashmirekhanayak/blob/main/profile%20banner.png)
 <h1 align="center">Hi 👋, I'm Rashmirekha Nayak</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="left-center" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashmirekhanayak" alt="rashmirekhanayak" /></a> </p>
 
 - 🌱 I’m currently learning **Power BI, SQL**
